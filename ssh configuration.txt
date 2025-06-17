@@ -1,0 +1,26 @@
+Anaconda terminal:
+ssh ylu174@dslogin01.pha.jhu.edu
+yppasswd
+changed password: Louis@030326_
+
+open vscode:
+install "remote ssh" extension
+
+open config(ssh open configuration file), edit:
+Host brtx601.idies
+    Hostname brtx601.idies.jhu.edu
+    User ylu174
+    ProxyJump DSLogin
+
+Host brtx602.idies
+    Hostname brtx602.idies.jhu.edu
+    User ylu174
+    ProxyJump DSLogin
+
+Host DSLogin
+    HostName dslogin01.pha.jhu.edu 
+    User ylu174
+
+open ssh, connect to host
+
+enter password

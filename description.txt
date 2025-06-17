@@ -1,0 +1,4 @@
+classify videos based on metadata
+
+
+video retrieval: given a query, 
