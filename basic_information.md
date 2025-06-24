@@ -1,4 +1,5 @@
 location: Stieff Silver Building 810 Wyman Park Drive Baltimore, MD 21211
+
 online meeting: teams meeting in Multimodal RAG Group
 
 ## Retrieval task
