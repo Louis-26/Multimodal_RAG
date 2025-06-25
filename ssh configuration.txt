@@ -3,6 +3,8 @@ ssh ylu174@dslogin01.pha.jhu.edu
 yppasswd
 changed password: Louis@030326_
 
+connect to host server: ssh brtx602.idies, enter password
+
 open vscode:
 install "remote ssh" extension
 
